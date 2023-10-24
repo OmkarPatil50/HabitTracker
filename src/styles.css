@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #14a6ea;
+  --secondary-color: white;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.app-header {
+  color: var(--primary-color);
+}
+
+ul {
+  list-style: none;
+}
